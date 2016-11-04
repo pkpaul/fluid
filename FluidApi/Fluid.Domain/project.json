@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Autofac": "4.2.0",
+    "MediatR": "2.1.0",
+    "NETStandard.Library": "1.6.0",
+    "ServiceStack.Text.Core": "1.0.25",
+    "StackExchange.Redis": "1.1.608"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
